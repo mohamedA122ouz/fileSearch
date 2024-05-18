@@ -1,0 +1,15 @@
+{
+    "filters":["C://Users/Student/Desktop/w/Quran/القطامي كاملا"],
+    "filter":[],
+    "indexingPlace":"C:/",
+    "cashMemory": {"cash":"../../memory/E.json"},
+    "searchType":["all","First"],
+    "openOptions":{"openFolder":-1,"openFile":1,"no":0},
+    "search": {
+        "key": "250",
+        "type": 0,
+        "cashMemoryFile": "cash",
+        "openOnFound":"openFile",
+	"instanceTerminate":false
+    }
+}

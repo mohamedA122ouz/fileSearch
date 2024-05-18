@@ -1,0 +1,86 @@
+{
+    "C:/Users/Student/Desktop/fileSystem withNode": [
+        "desktop.ini",
+        "globalImports.js",
+        "nodeServer",
+        "node_modules",
+        "package-lock.json",
+        "package.json",
+        "run Search.bat",
+        "Screenshot 2023-11-27 004641.png",
+        "tempCodeRunnerFile.js",
+        "thisPc path.txt"
+    ],
+    "C:/Users/Student/Desktop/fileSystem withNode/nodeServer": [
+        "index.js",
+        "key.json",
+        "memory",
+        "node_modules",
+        "scripts"
+    ],
+    "C:/Users/Student/Desktop/fileSystem withNode/nodeServer/memory": [
+        "allFiles.json",
+        "E.json",
+        "ENew.json"
+    ],
+    "C:/Users/Student/Desktop/fileSystem withNode/nodeServer/scripts": [
+        "browse",
+        "depreacated",
+        "fileCreation.js",
+        "fileOrFolder",
+        "generalSearch",
+        "indexing",
+        "localSearch"
+    ],
+    "C:/Users/Student/Desktop/fileSystem withNode/nodeServer/scripts/browse": [
+        "browse.js",
+        "node_modules",
+        "package.json"
+    ],
+    "C:/Users/Student/Desktop/fileSystem withNode/nodeServer/scripts/depreacated": [
+        "harder1",
+        "indexing",
+        "indexing breakOnFound"
+    ],
+    "C:/Users/Student/Desktop/fileSystem withNode/nodeServer/scripts/fileOrFolder": [
+        "fileOrFolder.js"
+    ],
+    "C:/Users/Student/Desktop/fileSystem withNode/nodeServer/scripts/generalSearch": [
+        "search.js",
+        "searchHarder.js"
+    ],
+    "C:/Users/Student/Desktop/fileSystem withNode/nodeServer/scripts/indexing": [
+        "indexing.js",
+        "indexingM.js",
+        "logIndexing.txt",
+        "runsearch.cpp",
+        "runsearch.exe"
+    ],
+    "C:/Users/Student/Desktop/fileSystem withNode/nodeServer/scripts/localSearch": [
+        "HardSearch",
+        "key.json",
+        "localSearch.js",
+        "logIndexing.txt",
+        "node_modules",
+        "package-lock.json",
+        "package.json",
+        "runsearch.cpp",
+        "runsearch.exe",
+        "searchHarder.js",
+        "tempCodeRunnerFile.js"
+    ],
+    
+    "C:/Users/Student/Desktop/fileSystem withNode/nodeServer/scripts/depreacated/indexing breakOnFound": [
+        "indexing2.js",
+        "indexingM break on find.js",
+        "logIndexing.txt",
+        "runsearch.cpp",
+        "runsearch.exe"
+    ],
+    "C:/Users/Student/Desktop/fileSystem withNode/nodeServer/scripts/localSearch/HardSearch": [
+        "indexing2.js",
+        "indexingM break on find.js",
+        "logIndexing.txt",
+        "merge.js"
+    ]
+}

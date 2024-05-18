@@ -1,0 +1,15 @@
+time consumed using MultiThread: 00:00:24
+time consumed using MultiThread: 00:01:38
+time consumed using MultiThread: 00:01:08
+time consumed using MultiThread: 00:06:22
+time consumed using MultiThread: 00:00:09
+time consumed using MultiThread: 00:00:09
+time consumed using MultiThread: 00:00:24
+time consumed using MultiThread: 00:02:34
+time consumed using MultiThread: 00:12:24
+time consumed using MultiThread: 00:00:23
+time consumed using MultiThread: 00:13:21
+time consumed using MultiThread: 00:12:19
+time consumed using MultiThread: 00:13:06
+time consumed using MultiThread: 00:13:22
+time consumed using MultiThread: 00:09:33
