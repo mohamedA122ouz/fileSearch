@@ -1,5 +1,6 @@
 import read from "prompt-sync";
-const prompt = read();
+import History from "prompt-sync-history"
+const prompt = read(/*{history:History()}*/);
 import cmd from "child_process";
 import MTindexingPlace from "./HardSearch/indexingM break on find.js";
 import search from "../generalSearch/search.js";

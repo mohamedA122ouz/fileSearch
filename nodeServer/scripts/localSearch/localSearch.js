@@ -53,7 +53,6 @@ function runCMD(data, key, server) {
     }
     else {
         if (server) {
-
             console.warn("CANNOT OPEN MANY APPS FOR SYSTEM STABILITY REASONS!!");
             console.warn("THOSE ARE THE PATHS WHICH WOULD BE OPEN YOU CAN CHOOSE ANY ONE");
             let editedpaths = [];

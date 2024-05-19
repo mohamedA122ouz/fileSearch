@@ -4,6 +4,7 @@ import { codeController, runIndexing } from './indexing.js';
 const noFilter = "!@#$%^&*";
 let workerThreadPath = "./";
 let startPoint = {};
+
 /** 
  * @param {string} filter ignored folder
 **/
